@@ -23,7 +23,7 @@ Task Manager API is a project that provides user and task management functionali
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-api.git
+   git clone https://github.com/WalaaAbdElhady/task-manager-api.git
    
 2. Create a config.env file in the root of the project and add the following environment variables:
    
