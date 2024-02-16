@@ -34,8 +34,8 @@ Task Manager API is a project that provides user and task management functionali
    DATABASE_PASSWORD=your_mongodb_password
    
    JWT_SECRET=your_jwt_secret_key
-   JWT_EXPIRES_IN=7d
-   JWT_COOKIE_EXPIRES_IN=7
+   JWT_EXPIRES_IN=90d
+   JWT_COOKIE_EXPIRES_IN=90
 
    EMAIL_USERNAME=your_email_username
    EMAIL_PASSWORD=your_email_password
